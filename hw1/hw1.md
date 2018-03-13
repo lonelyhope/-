@@ -39,8 +39,6 @@
 
       4. Software Engineering Models
 
-      5. Software Engineering Professional Practice
-
          ​
 
    -  **解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。**
@@ -73,6 +71,10 @@
 
    -  **用自己语言简述 SWEBok 或 CMMI （约200字）**
 
+      **SWEBok**: The **Software Engineering Body of Knowledge** (**SWEBOK**) is an international standard ISO/IEC TR 19759:2005 specifying a guide to the generally accepted Software Engineering Body of Knowledge. The published version of SWEBOK V3 has 15 knowledge areas (KAs) within the field of software engineering.
+
+      **CMMI**：能力成熟度模型集成是一个过程改进方法，它的目的是帮助组织改进他们的绩效，可以被用于引导横贯一个项目、一个部门或一个完整的组织的过程改进。CMMI 帮助“集成传统独立的组织功能，设置过程改进目标和优先级，为质量过程提供指引，并为评价当前过程提供一个参考点”。
+
    ​
 
 2. **解释 PSP 各项指标及技能要求**：
@@ -81,6 +83,57 @@
 
       <http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html>
 
+      指标：
+
+      a)       项目/任务有多大？
+
+      说明项目的大小, 一般用代码行数 (Line Of Code, LOC) 来表示；也可以用功能点 (function point). 一个重要的指标是: 你在实际产品中写了多少代码, 不包括空行/注释行/单字符行 .
+
+      b)       花了多少时间?
+
+      可以用小时, 天，月，年来表示。一组人所花费的时间可以用 (人数*时间) 来表示，例如某项目花费了10个人·月。 
+
+      c)       质量如何?
+
+      交付的代码中有多少缺陷?  交付有两个定义, 
+
+      ·         在 Code Complete “代码完成” 的时候, 交付给测试人员
+
+      ·         交付到顾客那里去 (在软件交付的时候)。
+
+      可以用缺陷的数量来除以项目的大小。  例如 5 bugs / KLOC，  意味着每千行程序有5个缺陷。
+
    -  **按表格 PSP 2.1， 了解一个软件工程师在接到一个任务之后要做什么，需要哪些技能，解释你打算如何统计每项数据？** （期末考核，每人按开发阶段提交这个表）
 
-      ​
+      计划
+
+      ·         估计这个任务需要多少时间
+
+      开发
+
+      ·         分析需求
+
+      ·         生成设计文档
+
+      ·         设计复审 (和同事审核设计文档)
+
+      ·         代码规范 (为目前的开发制定合适的规范)
+
+      ·         具体设计
+
+      ·         具体编码
+
+      ·         代码复审
+
+      ·         测试（包括自我测试，修改代码，提交修改）
+
+      记录时间花费
+
+      测试报告
+
+      计算工作量
+
+      事后总结
+
+      提出过程改进计划
+
