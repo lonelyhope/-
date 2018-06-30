@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>10</x>
-      <y>50</y>
+      <x>0</x>
+      <y>40</y>
       <w>170</w>
       <h>170</h>
     </coordinates>
@@ -25,8 +25,8 @@ showPayPage()
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>10</x>
-      <y>290</y>
+      <x>0</x>
+      <y>280</y>
       <w>170</w>
       <h>150</h>
     </coordinates>
@@ -42,8 +42,8 @@ pay(user, money)
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>210</x>
-      <y>210</y>
+      <x>200</x>
+      <y>200</y>
       <w>240</w>
       <h>170</h>
     </coordinates>
@@ -62,8 +62,8 @@ chooseRoom(room)</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>520</x>
-      <y>10</y>
+      <x>510</x>
+      <y>0</y>
       <w>160</w>
       <h>170</h>
     </coordinates>
@@ -82,8 +82,8 @@ getInfo()
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>520</x>
-      <y>260</y>
+      <x>510</x>
+      <y>250</y>
       <w>130</w>
       <h>170</h>
     </coordinates>
@@ -101,8 +101,8 @@ getRoom()</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>520</x>
-      <y>510</y>
+      <x>510</x>
+      <y>500</y>
       <w>180</w>
       <h>150</h>
     </coordinates>
@@ -118,8 +118,8 @@ quitReservation(id)
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>270</x>
-      <y>500</y>
+      <x>260</x>
+      <y>490</y>
       <w>130</w>
       <h>150</h>
     </coordinates>
@@ -136,8 +136,8 @@ getHotel()
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>770</x>
-      <y>110</y>
+      <x>760</x>
+      <y>100</y>
       <w>170</w>
       <h>150</h>
     </coordinates>
@@ -153,8 +153,8 @@ delete(reservation)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>170</x>
-      <y>120</y>
+      <x>160</x>
+      <y>110</y>
       <w>60</w>
       <h>120</h>
     </coordinates>
@@ -164,8 +164,8 @@ delete(reservation)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>170</x>
-      <y>260</y>
+      <x>160</x>
+      <y>250</y>
       <w>60</w>
       <h>100</h>
     </coordinates>
@@ -175,8 +175,8 @@ delete(reservation)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>20</y>
+      <x>430</x>
+      <y>10</y>
       <w>100</w>
       <h>280</h>
     </coordinates>
@@ -186,8 +186,8 @@ delete(reservation)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>270</y>
+      <x>430</x>
+      <y>260</y>
       <w>100</w>
       <h>110</h>
     </coordinates>
@@ -197,8 +197,8 @@ delete(reservation)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>270</y>
+      <x>430</x>
+      <y>260</y>
       <w>100</w>
       <h>320</h>
     </coordinates>
@@ -208,8 +208,8 @@ delete(reservation)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>160</y>
+      <x>430</x>
+      <y>150</y>
       <w>350</w>
       <h>140</h>
     </coordinates>
@@ -219,8 +219,8 @@ delete(reservation)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>320</x>
-      <y>370</y>
+      <x>310</x>
+      <y>360</y>
       <w>30</w>
       <h>150</h>
     </coordinates>

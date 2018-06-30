@@ -32,8 +32,4 @@
 
 项目框架：
 
-- project
-  - public
-  - static
-  - module
-    - 
+![package](pic/package.png)
